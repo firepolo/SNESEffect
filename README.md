@@ -1,6 +1,10 @@
 # SNESEffect
 Small app reproducing the cool SNES perspective effect
 
+Preview:
+--------
+![alt tag](https://raw.githubusercontent.com/firepolo/SNESEffect/master/preview.png)
+
 Perspective equation:
 ---------------------
 'x = x / z<br />
