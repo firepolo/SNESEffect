@@ -17,7 +17,7 @@ public class SNESEffect extends JFrame implements Runnable, KeyListener
     private final int SNES_HEIGHT = 240;
     private final int SNES_SCALE = 2;
     
-    private static final int FRAME_TIME = 1000 / 60;
+    private final int FRAME_TIME = 1000 / 60;
     
     private final HashMap<Integer, Boolean> keys;
     
