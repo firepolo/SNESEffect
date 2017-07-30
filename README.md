@@ -7,16 +7,20 @@ Preview:
 
 Perspective equation:
 ---------------------
-'x = x / z<br />
+```java
+'x = x / z
 'y = y / z
+```
 
 More an object is far, more it is small.<br />
 More an object is near, more it is big.
 
 Rotation equation:
 -------------------
-x = x * cos(angle) - y * sin(angle)<br />
+```java
+x = x * cos(angle) - y * sin(angle)
 y = x * sin(angle) + y * cos(angle)
+```
 
 This equation apply a rotation on Y axe.<br />
 This is the same equation that 3D but adapted for the 2D vectors.
